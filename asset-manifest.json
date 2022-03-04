@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Pokemon-Cards/static/css/main.971c8603.chunk.css",
+    "main.js": "/Pokemon-Cards/static/js/main.6f530f87.chunk.js",
+    "main.js.map": "/Pokemon-Cards/static/js/main.6f530f87.chunk.js.map",
+    "runtime-main.js": "/Pokemon-Cards/static/js/runtime-main.500c3ba5.js",
+    "runtime-main.js.map": "/Pokemon-Cards/static/js/runtime-main.500c3ba5.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/Pokemon-Cards/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.57be3bd3.chunk.js": "/Pokemon-Cards/static/js/2.57be3bd3.chunk.js",
+    "static/js/2.57be3bd3.chunk.js.map": "/Pokemon-Cards/static/js/2.57be3bd3.chunk.js.map",
+    "index.html": "/Pokemon-Cards/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/Pokemon-Cards/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.971c8603.chunk.css.map": "/Pokemon-Cards/static/css/main.971c8603.chunk.css.map",
+    "static/js/2.57be3bd3.chunk.js.LICENSE.txt": "/Pokemon-Cards/static/js/2.57be3bd3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Pokemon-Cards/static/media/BarcadeBrawl.73895ecd.ttf",
+    "static/media/InfoDialog.css": "/Pokemon-Cards/static/media/bg.d34ff86c.png",
+    "static/media/pokedex.2800773d.png": "/Pokemon-Cards/static/media/pokedex.2800773d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.500c3ba5.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.57be3bd3.chunk.js",
+    "static/css/main.971c8603.chunk.css",
+    "static/js/main.6f530f87.chunk.js"
+  ]
+}

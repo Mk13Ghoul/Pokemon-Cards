@@ -4,7 +4,7 @@
 
 ## Links
 
- Watch it in action [here](https://pokedex-react-mui.netlify.app/)
+ Watch it in action [here](https://mk13ghoul.github.io/Pokemon-Cards/)
 
 ## Features
 - View basic details of each Pokémon
